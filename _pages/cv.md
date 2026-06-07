@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-You can download my CV here: [Katharina's CV](https://kklaunig.github.io/files/Klaunig, CV January 12 2026.pdf)
+You can download my CV here: [Katharina's CV](https://kklaunig.github.io/files/Klaunig, CV June 07 2026.pdf)
